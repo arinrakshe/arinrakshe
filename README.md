@@ -22,7 +22,7 @@
 
 **Languages:**
 
-![Languages](https://skillicons.dev/icons?i=java,python,js,ts,ocaml,sql,html,css)
+![Languages](https://skillicons.dev/icons?i=java,js,ts,python,html,css,mysql)
 
 **Tools & Platforms:**
 
