@@ -32,7 +32,7 @@
 
 ## 📬 Connect with Me
 
-💼 LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/arinrakshe)
+💼 LinkedIn: https://www.linkedin.com/in/arinrakshe
 
 ✉️ Email: rakshe.ar@northeastern.edu
 
