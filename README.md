@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arin
 
-💻 CS Student | Researcher | Software Engineer | AI/ML Enthusiast
+💻 CS + Math Student | Researcher | Software Engineer | AI/ML Enthusiast
 
 🎓 B.S. Computer Science & Mathematics, Minor in Finance @ Northeastern University
 
