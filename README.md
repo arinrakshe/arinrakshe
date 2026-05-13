@@ -4,7 +4,7 @@
 
 🎓 B.S. Computer Science & Mathematics, Minor in Finance @ Northeastern University
 
-🚀 Passionate about AI/ML, Software Engineering, Data Engineering, and Operations
+🚀 Passionate about AI/ML, Software Engineering, Data Engineering, and Healthcare
 
 ---
 
