@@ -10,7 +10,7 @@
 
 ## 🔷 About Me
 
-🧪 Researched retrieval-augmented generation (RAG) and NLP pipelines at UConn's El Gato Lab, building AI-powered chatbot systems grounded in semantic search
+🧪 Researched retrieval-augmented generation (RAG) and NLP pipelines at UConn, building AI-powered chatbot systems grounded in semantic search
 
 🫀 Contributed to biomedical AI research at the Bonde Artificial Heart Lab at Yale School of Medicine, working on data-driven approaches to cardiac device monitoring
 
