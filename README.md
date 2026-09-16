@@ -26,7 +26,7 @@
 
 ✉️ Email: rakshe.ar@northeastern.edu
 
-🌐 Website: https://arin-rakshe.vercel.app/
+🌐 Website: https://arinrakshe-personal-website.vercel.app/
 
 <!--
 **arinrakshe/arinrakshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
